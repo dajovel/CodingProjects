@@ -38,6 +38,28 @@ print("New lines can be created with a backslash and n.")
 
 height = "Jovel"
     
-print(type(height))
+#print(type(height))
 
-    
+# #input tells us to place an input name = the output of the input
+# name = input("what is your VIN: ")
+# print(name)
+
+
+#print(type(N)) #type 'Bool'
+output = bool(input("Have Logs been pulled?(Y/N)"))
+N = False
+Y = True
+if N == False:
+   # else Y == True:
+    print("go get logs")
+if Y == True:
+    print("Lets gooo!")
+#else 
+    #input("Heree we goo!")
+
+# James = 123456789 #we can  print
+# print(type(James)) #James is a string  'int'
+
+# name = input("What is your name: ")
+# lenght = len(name)
+# print(lenght)
