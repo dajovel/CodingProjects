@@ -1,0 +1,18 @@
+Hello  this is a txt file
+This is the second line
+This is another line
+Added  another and am  saying oops
+
+Useful Links:
+http://codingbat.com/python
+https://projecteuler.net/archives
+http://www.codeabbey.com/index/task_list
+https://www.reddit.com/r/dailyprogrammer
+http://www.pythonchallenge.com/
+
+
+
+
+
+
+

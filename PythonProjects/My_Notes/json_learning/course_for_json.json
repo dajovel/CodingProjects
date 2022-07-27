@@ -1,0 +1,53 @@
+
+{
+    "animal" : "cat",
+    "color"  : "blue",
+    "flower" : "marigold"
+}
+
+{
+    "address"   :   "address goes here",
+    "city"      :   "Houston",
+    "state"     :   "Texas",
+    "zipcode"   :   77023,
+    "latitude"  :   37.023,
+    "longitude" :   -1223.23,
+    "residential":  false,
+    "business"  :   null
+}
+
+{
+
+    "class": "Introduction to JSON",
+    "test"  : "First Test",
+    "students": 10,
+    "scores": [
+        90.2,
+        55,
+        63,
+        89,
+        71,
+        75,
+        82,
+        87,
+        96.7,
+        98.2
+    ]
+
+}
+{
+    "levels": "a",
+    "score":
+    [
+        {
+            "student":  "Jovel, D.",
+            "score":    99
+        },
+        {
+            "student": "Johnson B.",
+            "score":    82
+
+        }
+    ]
+}
+JSON.parse
